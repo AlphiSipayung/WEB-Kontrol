@@ -11,7 +11,7 @@ int relayGPIOs[NUM_RELAYS] = {17, 5, 18, 19};
 String relayNames[NUM_RELAYS] = { "atas_bawah", "Gripper", "kiri_kanan", "Swing" };
 
 // Enter your wifi SSID and password
-const char* ssid = "Mikael1";
+const char* ssid = "Mikael 1";
 const char* password = "FortunPrim2020";
 
 // Set your Static IP address
